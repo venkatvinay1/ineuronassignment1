@@ -4,3 +4,4 @@ tensorflow
 sklearn
 matplotlib
 os
+flask
